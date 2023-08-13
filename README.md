@@ -10,7 +10,7 @@ Our objective is to create a powerful analysis framework for trading firms, enab
 ## 💼 Approach:
 We meticulously perform in-depth financial analysis on historical stock market data. Our team of experts calculates various risk and return metrics and explores multiple permutations of trading strategies.
 
-## Architecture
+## 🏛️ Architecture
 
 <img width="800" height="300" alt="Architecture - Stock Analysis Big data" src="https://github.com/Kousikdutta1/Stock-Analysis-Big-Data-Engineering-Solution/assets/106880838/a75ce24e-6358-4c97-9273-4db8669d7033">
 
