@@ -12,7 +12,7 @@ We meticulously perform in-depth financial analysis on historical stock market d
 
 ## Architecture
 
-<img width="495" alt="Architecture - Stock Analysis Big data" src="https://github.com/Kousikdutta1/Stock-Analysis-Big-Data-Engineering-Solution/assets/106880838/a75ce24e-6358-4c97-9273-4db8669d7033">
+<img width="800" height="300" alt="Architecture - Stock Analysis Big data" src="https://github.com/Kousikdutta1/Stock-Analysis-Big-Data-Engineering-Solution/assets/106880838/a75ce24e-6358-4c97-9273-4db8669d7033">
 
 ## 🏆 Goal:
 The ultimate goal of our project is to provide you with data-driven insights that empower you to make well-informed decisions, thus maximizing your trading performance in the dynamic stock market.
